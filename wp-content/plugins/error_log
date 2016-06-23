@@ -1,0 +1,2 @@
+[07-Oct-2015 07:41:12 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/plugins/hello.php on line 60
+[22-Oct-2015 23:48:09 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/plugins/hello.php on line 60

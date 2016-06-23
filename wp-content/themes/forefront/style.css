@@ -1,0 +1,379 @@
+/*
+ Theme Name:   Forefront
+ Theme URI:    http://www.generatepress.com/forefront/
+ Description:  Forefront is a GeneratePress child theme with two sidebars and a red color scheme. Using GeneratePress you can alter the child theme to your taste in minutes. Forefront is mobile responsive, W3C Markup Validated, Schema.org integrated, search engine friendly, cross browser compatible and 100% translatable. See more about GeneratePress here: http://generatepress.com
+ Author:       Thomas Usborne
+ Author URI:   http://edge22.com
+ Template:     generatepress
+ Version:      0.8
+ Tags: two-columns, three-columns, one-column, right-sidebar, left-sidebar, fluid-layout, fixed-layout, responsive-layout, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, light, white, dark, black, blue, brown, gray, green, orange, pink, purple, red, silver, tan, yellow
+
+ Forefront, Copyright 2014 Thomas Usborne
+ Forefront is distributed under the terms of the GNU GPL
+
+ Forefront is a child theme of GeneratePress
+ 
+ It's not recommended to add CSS to this file, as it will be lost if you ever update this child theme.
+ Instead, use a Custom CSS plugin.
+ 
+ */
+
+body{
+background:#ffffff;
+}
+ 
+.post-image {
+	margin-top: 0;
+	margin-bottom: 1.5em;
+}
+
+.widget-title {
+	border-bottom: 1px solid #efefef;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.site-info {
+    background-color: black;
+    color: #ffffff;
+    
+   
+}
+
+.main-navigation, .main-navigation ul ul {
+    background-color:#0182C4;
+}
+
+#banner_escuela{
+
+
+}
+
+.inside-header {
+    padding:0px;
+}
+
+.main-navigation .main-nav ul .current-menu-item > a, .main-navigation .main-nav ul .current-menu-parent > a, .main-navigation .main-nav ul .current-menu-ancestor > a, .main-navigation .main-nav ul .current_page_item > a, .main-navigation .main-nav ul .current_page_parent > a, .main-navigation .main-nav ul .current_page_ancestor > a {
+    background-color: #4DA8D5;
+    color: #ffffff;
+}
+
+#imagens_campus{
+width:40px;
+height:40px;
+
+}
+
+.separate-containers .widget-area .widget {
+    
+    padding: 40px;
+    
+   -webkit-box-shadow: 0 0 3px 0.5px #BAB2AF;
+box-shadow: 0 0 3px 0.5px #BAB2AF;
+}
+
+.inside-article {
+    -webkit-box-shadow: 0 0 3px 0.5px #BAB2AF;
+box-shadow: 0 0 3px 0.5px #BAB2AF;
+
+}
+
+.widget-title {
+    border-bottom: 5px solid #4DA8D5;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+
+.separate-containers .widget-area .widget {
+    box-shadow: 0 0 3px 0.5px rgb(186, 178, 175);
+    padding: 20px;
+}
+
+.entry-title{
+font-size:30px;
+text-align:center;
+font-weight: bold;
+margin-bottom:-30px;
+}
+
+#tituto_calendario{
+height:30px;
+background:#FF0000;
+padding:0px;
+text-align:center;
+
+
+}
+
+#capa_redes_sociales{
+text-align:right;
+margin-left:30px;
+}
+
+#testimonio_escuela{
+margin-left:30px;
+
+}
+
+#biblioteca_escuela{
+margin-left:30px;
+
+}
+
+#websoluciones_escuela{
+margin-left:20px;
+
+}
+
+#websoluciones_escuela img{
+height: 130px;
+   
+
+}
+
+}
+
+/* .grid-25{
+float:left;
+width:20%;
+}
+
+.push-25{
+left:20%;
+}
+
+.grid-50{
+float:left;
+width:60%;
+
+}
+
+.pull-75{
+left:-80%;
+}
+
+.grid-75{
+
+float:left;
+width:80%;
+}
+
+*/
+
+
+.expositores_escuela{
+
+border-collapse: collapse;
+border:1px solid #F2F2F2;
+}
+
+.titulo_tabla_expositores{
+background:#18AE93;
+
+}
+
+.tabla_cursos_calendario {
+
+border-collapse: collapse;
+border:1px solid #DEDFED;
+}
+
+.titulo_tabla_escuela{
+
+background:#F2F2F2;
+}
+
+#comercio_conferencia1{
+background:	#D5E1DD;
+}
+
+#comercio_conferencia2{
+background:	#F2F2F2;
+}
+
+.subtitulo_tabla_escuela{
+background:#EEF5FD;
+
+}
+
+#capa_escuela{
+    background:  #BAD9FF;
+}
+
+.tabla_campus td{
+    border-collapse: collapse;
+border:1px solid #F2F2F2;
+}
+
+.tabla_modos_de_pago td{
+ border-collapse: collapse;
+border:1px solid #F2F2F2;
+    
+}
+
+.tabla_biblioteca td{
+    border-collapse: collapse;
+border:1px solid #F2F2F2;
+}
+
+.titulo_tabla_biblioteca{
+    background:     #B8EDF2;
+}
+
+#pacificotrading_escuela{
+    margin-left:30px;
+}
+
+#pacificotrading_escuela img{
+  height: 150px;
+   
+}
+
+.tabla_bolsa_laboral td{
+     border-collapse: collapse;
+border:1px solid #F2F2F2;
+}
+
+.titulo_bolsa_laboral{
+    background:#F2F2F2;
+}
+
+.tabla_visitas_guiadas td{
+    border-collapse: collapse;
+    border:1px solid #F2F2F2;
+}
+
+.titulo_visitas_guiadas{
+    background:#F2F2F2;
+}
+
+.tabla_videoteca td{
+    border-collapse: collapse;
+    border:1px solid #F2F2F2;
+}
+
+.titulo_videoteca{
+    background:#F2F2F2;
+}
+
+.tabla_seminarios td{
+    border-collapse: collapse;
+    border:1px solid #F2F2F2;
+
+}
+
+.titulo_seminarios{
+    background:#F2F2F2;
+}
+
+.tabla_eventos td{
+border-collapse: collapse;
+    border:1px solid #F2F2F2;
+
+
+}
+
+.titulo_eventos{
+background:#F2F2F2;
+
+}
+
+#eventos_escuela{
+text-align:center;
+}
+
+.inside-site-info.grid-container.grid-parent{
+display:none;
+}
+
+#datos_footer_escuela{
+margin-left:20px;
+}
+
+
+#desarrollo_websoluciones_escuela{
+text-align:right;
+margin-right:30px;
+}
+
+.main-navigation .main-nav ul li > a:hover, .main-navigation .main-nav ul li.sfHover > a{
+background-color:#4da8d5;
+color:#ffffff;
+
+}
+
+.main-navigation .main-nav ul ul li > a:hover, .main-navigation .main-nav ul ul li.sfHover > a{
+background-color:#4da8d5;
+color:#ffffff;
+}
+
+
+
+
+.main-navigation .main-nav ul .current-menu-item > a:hover, .main-navigation .main-nav ul .current-menu-parent > a:hover, .main-navigation .main-nav ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul .current_page_item > a:hover, .main-navigation .main-nav ul .current_page_parent > a:hover, .main-navigation .main-nav ul .current_page_ancestor > a:hover, .main-navigation .main-nav ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul .current-menu-ancestor.sfHover > a, .main-navigation .main-nav ul .current_page_item.sfHover > a, .main-navigation .main-nav ul .current_page_parent.sfHover > a, .main-navigation .main-nav ul .current_page_ancestor.sfHover > a{
+background-color:#4da8d5;
+color:#ffffff;
+}
+
+#mapa_oportunidades_escuela img{
+width:120px;
+height:150px;
+padding-left:40px;
+}
+
+.widget img {
+    height: auto;
+    max-width: 100%;
+}
+
+
+#boton_matricula {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#boton_matricula:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.subtitulo_tabla_escuela_calendario{
+   background: #0182C4;
+}
+
+.titulo_tabla_escuela_calendario{
+
+  background: #8EC2DB;
+}
+
+/* Sector inicio */
+
+.sector_pagina{
+background:white;
+width:270px;
+border-right:3px solid red;
+}
+
+.sector_imagen img{
+width:180px;
+height:100px;
+}
+

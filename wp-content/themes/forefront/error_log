@@ -1,0 +1,5 @@
+[01-Mar-2016 06:46:44 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/themes/forefront/functions.php on line 9
+[01-Mar-2016 11:45:47 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/themes/forefront/functions.php on line 9
+[12-Mar-2016 23:49:01 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/themes/forefront/functions.php on line 9
+[13-Mar-2016 05:39:48 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/themes/forefront/functions.php on line 9
+[13-Mar-2016 11:20:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/escuela/public_html/wp-content/themes/forefront/functions.php on line 9

@@ -1,0 +1,14 @@
+[16-Sep-2015 23:16:00 America/Chicago] PHP Fatal error:  Call to undefined function post_password_required() in /home/escuela/public_html/wp-content/themes/generatepress/comments.php on line 18
+[18-Sep-2015 07:21:53 America/Chicago] PHP Fatal error:  Call to undefined function post_password_required() in /home/escuela/public_html/wp-content/themes/generatepress/comments.php on line 18
+[20-Jan-2016 23:21:52 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/escuela/public_html/wp-content/themes/generatepress/404.php on line 8
+[01-Mar-2016 11:45:33 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/escuela/public_html/wp-content/themes/generatepress/header.php on line 10
+[01-Mar-2016 11:45:33 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/escuela/public_html/wp-content/themes/generatepress/functions.php on line 9
+[01-Mar-2016 11:45:34 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/escuela/public_html/wp-content/themes/generatepress/footer.php on line 13
+[01-Mar-2016 11:45:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/escuela/public_html/wp-content/themes/generatepress/archive.php on line 10
+[01-Mar-2016 11:45:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/escuela/public_html/wp-content/themes/generatepress/404.php on line 8
+[12-Mar-2016 23:48:56 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/escuela/public_html/wp-content/themes/generatepress/functions.php on line 9
+[12-Mar-2016 23:48:56 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/escuela/public_html/wp-content/themes/generatepress/footer.php on line 13
+[13-Mar-2016 05:39:39 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/escuela/public_html/wp-content/themes/generatepress/functions.php on line 9
+[13-Mar-2016 05:39:40 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/escuela/public_html/wp-content/themes/generatepress/footer.php on line 13
+[13-Mar-2016 11:20:38 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/escuela/public_html/wp-content/themes/generatepress/functions.php on line 9
+[13-Mar-2016 11:20:39 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/escuela/public_html/wp-content/themes/generatepress/footer.php on line 13

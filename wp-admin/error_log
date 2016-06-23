@@ -1,0 +1,2 @@
+[18-Oct-2014 19:45:51 UTC] Error Table 'pa2_escuelapacifico.wp_super' doesn't exist de la base de datos de WordPress para la consulta SELECT * FROM wp_super realizada por require_once('wp-admin/admin.php'), do_action('settings_page_super'), call_user_func_array, super_panel
+[30-May-2015 20:56:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4304 bytes) in /home/escuela/public_html/wp-content/plugins/backupwordpress/vendor/symfony/finder/Symfony/Component/Finder/Iterator/RecursiveDirectoryIterator.php on line 60
